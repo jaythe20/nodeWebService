@@ -5,4 +5,7 @@ Steps to set up repository:
 2. npm run start --> this will start server on specified port
 
 This app also has gulp installed.
-To start gulp default task, just execute gulp and it will execute gulpfile.js default task
+To start gulp default task, just execute gulp and it will execute gulpfile.js default task (sudo npm install --global gulp-cli
+)
+
+http://stackoverflow.com/questions/22224831/no-command-gulp-found-after-installation

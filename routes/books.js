@@ -8,3 +8,5 @@ router.get("/",function (req, res) {
     var JsonResponse = { 'Hello' : 'This is book api'};
     res.json(JsonResponse);
 });
+
+module.exports = router;
